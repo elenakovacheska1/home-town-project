@@ -50,6 +50,7 @@ body {
 
 #activities {
     display: flex;
+    flex-flow: row wrap;
     color: #1D3557;
     justify-content: center;
 }
