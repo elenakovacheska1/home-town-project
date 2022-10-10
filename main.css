@@ -12,7 +12,7 @@ body {
 #navbar {
     background-image: url("./images/navbar-img.jpg");
     background-size: cover;
-    height: 500px;
+    height: 31.25em;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -21,13 +21,13 @@ body {
 }
 
 .navbar-text {
-    padding: 5px 20px;
+    padding: 0.31em 1.25em;
     border-radius: 30px;
 }
 
 #navbar-title {
     background-color: #1D3557;
-    margin: 30px;
+    margin: 1.875em;
 }
 
 #navbar-title:hover, #navbar-description:hover {
@@ -35,7 +35,7 @@ body {
 }
 
 #navbar-description {
-    width: 412px;
+    width: 25.75em;
     background-color: #457B9D;
 }
 
@@ -44,7 +44,7 @@ body {
 }
 
 #main-title {
-    padding: 30px;
+    padding: 1.875em;
     color: #1D3557;
 }
 
@@ -56,40 +56,40 @@ body {
 }
 
 .activity {
-    width: 200px;
-    margin: 30px;
-    padding-bottom: 30px;
+    width: 12.5em;
+    margin: 1.875em;
+    padding-bottom: 1.875em;
 }
 
 .activity-img {
-    width: 200px;
-    height: 200px;
+    width: 12.5em;
+    height: 12.5em;
     border-radius: 50%;
 }
 
 .activity-img:hover {
-    width: 220px;
-    height: 220px;
+    width: 13.75em;
+    height: 13.75em;
 }
 
 .activity-title {
     font-weight: bold;
-    font-size: 20px;
-    padding: 10px;
+    font-size: 1.25rem;
+    padding: 0.625em;
 }
 
 .activity-description {
-    font-size: 18px;
-    padding: 10px;
+    font-size: 1.125rem;
+    padding: 0.625em;
 }
 
 #footer-guide {
-    width: 30rem;
-    height: 294px;
+    width: 30em;
+    height: 18.375em;
     background-color: #A8DADC;
     display: flex;
-    margin: 50px auto;
-    padding: 30px;
+    margin: 3.125em auto;
+    padding: 1.875em;
     border-radius: 30px;
     box-shadow: 0px 8px black;
     border: 1px solid black;
@@ -126,15 +126,15 @@ body {
 }
 
 #footer-img {
-    width: 300px;
+    width: 18.75em;
     border-radius: 30px;
 }
 
 #footer-title {
     font-weight: bold;
-    padding-bottom: 20px;
+    padding-bottom: 1.25em;
 }
 
 #footer-name {
-    padding-top: 15px;
+    padding-top: 0.9375em;
 }
