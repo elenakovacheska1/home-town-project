@@ -147,4 +147,10 @@ body {
     #navbar-description{
         width: 10em;
     }
+
+    #footer {
+        width: 30em;
+        margin: 0 auto;
+        font-size: 0.8rem;
+    }
 }
